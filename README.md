@@ -5,6 +5,7 @@
 - loader开发基础 [loaders/base](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/loaders/base)
 - loader多模块插入 [loaders/pitch](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/loaders/pitch)
 - plugin chunk生成 [plugins/chunk](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/plugins/chunk)
+-  factory的使用  [plugins/factoryAndLoader](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/plugins/factoryAndLoader)
 - plugin module生成 [plugins/module](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/plugins/module)
 - plugin module添加到chunk中 [plugins/chunkAndModule](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/plugins/chunkAndModule)
 - plugin生成带入口chunk [plugins/entryChunk](https://github.com/AlfredMou/webpack-plugin-demo/tree/master/plugins/entryChunk)
