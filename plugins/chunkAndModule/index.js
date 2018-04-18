@@ -1,7 +1,7 @@
 const Chunk = require('webpack/lib/Chunk');
 const ModulePlugin = require('../module/index');
-const Entrypoint = require("webpack/lib/Entrypoint");
-const GraphHelpers = require("webpack/lib/GraphHelpers");
+// const Entrypoint = require("webpack/lib/Entrypoint");
+// const GraphHelpers = require("webpack/lib/GraphHelpers");
 
 class chunkCreate {
     apply(compiler) {

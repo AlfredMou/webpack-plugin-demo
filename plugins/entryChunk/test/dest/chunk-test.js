@@ -44,11 +44,6 @@
 /******/ 		}
 /******/ 	};
 /******/
-/******/ 	// define __esModule on exports
-/******/ 	__webpack_require__.r = function(exports) {
-/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 	};
-/******/
 /******/ 	// getDefaultExport function for compatibility with non-harmony modules
 /******/ 	__webpack_require__.n = function(module) {
 /******/ 		var getter = module && module.__esModule ?
@@ -64,21 +59,16 @@
 /******/ 	// __webpack_public_path__
 /******/ 	__webpack_require__.p = "/";
 /******/
-/******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../etract.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../etract.js":
-/*!********************!*\
-  !*** ../etract.js ***!
-  \********************/
-/*! no static exports found */
+/***/ 2:
 /***/ (function(module, exports) {
 
-eval("console.log('extract module');\n\n//# sourceURL=webpack:///../etract.js?");
+console.log('extract module');
 
 /***/ })
 
